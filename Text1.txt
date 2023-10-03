@@ -1,1 +1,2 @@
-Just to test GIT.
+Just to test GIT. 
+I added one line.
